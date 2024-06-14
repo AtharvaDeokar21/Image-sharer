@@ -59,9 +59,9 @@ This is a basic project built with Django. It is an image-sharing application wh
 
 ## Screenshots
 
-![Home Page](screenshots\Home.png)
-![Add Image Page](screenshots\Add_image_page.png)
-![Detail View Page](screenshots\Detail.png)
+![Home Page](screenshots/Home.png)
+![Add Image Page](screenshots/Add_image_page.png)
+![Detail View Page](screenshots/Detail.png)
 
 ## Technologies Used
 
